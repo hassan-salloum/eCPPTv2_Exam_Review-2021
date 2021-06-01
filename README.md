@@ -5,7 +5,7 @@ First never ever broke your head before the exam with many people write-up about
 And these are my advices
 
 
-1.	If you’re a noob like me, take the course and the LABs with INE
+- If you’re a noob like me, take the course and the LABs with INE
 
 2.	Also, if you are not in a hurry try done the “offensive learning path” with TryHackMe
 
