@@ -36,7 +36,7 @@ And these are my advices
 
 13.	For the last target don’t think a lot for the escalation , the solution will show up in the first moment you got access to the machine (just think about it)
 
-14.	Reporting is very important  I based on my own report on these (take care of them and prepare your report strategy before you take the exam)
+14.	Reporting is very important  I based on my own report on these (prepare your report strategy before you take the exam)
     *https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*
     *https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
     *https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*  
