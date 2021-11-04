@@ -21,11 +21,11 @@ https://pentest.blog/explore-hidden-networks-with-double-pivoting/
 
 # Be careful MSF6 don’t support anymore socks4a its support “socks_proxy” as exploit
 
-Good enumeration for every target because he will have the key  to others and proxychains is important
+# Good enumeration for every target because he will have the key  to others and proxychains is important
 
-Make your life easy in exploitation sometime it work for others
+# Make your life easy in exploitation sometime it work for others
 
-Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
+# Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
 https://tryhackme.com/room/brainstorm
 https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
 
