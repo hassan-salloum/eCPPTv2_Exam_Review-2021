@@ -3,7 +3,7 @@
 First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed). And these are my advices for you:
 
 ```diff
-If you’re a not a professionnel, take the course and the LABs with INE. and better to start from zero with the eJPT and get certified
+> If you’re a not a professionnel, take the course and the LABs with INE. and better to start from zero with the eJPT and get certified
  
 Also, if you are not in a hurry try to done all the “offensive learning path” with TryHackMe
 
@@ -41,5 +41,5 @@ Reporting is very important  I based on my own report on these (prepare your rep
 Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities on the targets.
 
 Last things eLearnSecurity also available on discord, install the application and have fun to chatting with all the hackers community students will be there (eLearnSecurity) 
-   https://discord.com/channels*
+# https://discord.com/channels*
  ```
