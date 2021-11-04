@@ -25,7 +25,7 @@ First never ever broke your head before the exam with many people write-up about
 > Make your life easy in exploitation sometime it work for others
 
 > Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
-  *https://tryhackme.com/room/brainstorm
+  *https://tryhackme.com/room/brainstorm<br />
   *https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
 
 > Reset is not the key for buffer over flow (be smart what can reset do if your target is already up?!), and just try different ports on your listener side and try to synthetize your exploit code
@@ -34,8 +34,8 @@ First never ever broke your head before the exam with many people write-up about
 
 > Reporting is very important  I based on my own report on these (prepare your report strategy before you take the exam)
   *https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*<br />
-  *https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
-  *https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*
+  *https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*<br />
+  *https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*<br />
 
 > Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities on the targets.
 
