@@ -29,7 +29,6 @@ https://pentest.blog/explore-hidden-networks-with-double-pivoting/
 https://tryhackme.com/room/brainstorm
 https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
 
-
 # Reset is not the key for buffer over flow (be smart what can reset do if your target is already up?!), and just try different ports on your listener side and try to synthetize your exploit code
 
 # For the last target don’t think a lot for the escalation , the solution will show up in the first moment you got access to the machine (just think about it)
@@ -38,7 +37,6 @@ https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
   https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*
   https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
   https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*  
-
 
 #  Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities on the targets.
 
