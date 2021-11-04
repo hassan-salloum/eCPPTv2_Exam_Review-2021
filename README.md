@@ -1,7 +1,7 @@
 ### 💯 eCPPTv2_Exam_Review 💯
-
-First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed). And these are my advices for you:
-
+```diff
++ First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed). And these are my advices for you:
+```
 > If you’re a not a professionnel, take the course and the LABs with INE. and better to start from zero with the eJPT and get certified
 
 > Also, if you are not in a hurry try to done all the “offensive learning path” with TryHackMe
@@ -25,20 +25,20 @@ First never ever broke your head before the exam with many people write-up about
 > Make your life easy in exploitation sometime it work for others
 
 > Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
-# https://tryhackme.com/room/brainstorm
-# https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
+  *https://tryhackme.com/room/brainstorm
+  *https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
 
 > Reset is not the key for buffer over flow (be smart what can reset do if your target is already up?!), and just try different ports on your listener side and try to synthetize your exploit code
 
 > For the last target don’t think a lot for the escalation , the solution will show up in the first moment you got access to the machine (just think about it)
 
 > Reporting is very important  I based on my own report on these (prepare your report strategy before you take the exam)
-# https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*
-# https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
-# https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*  
+  *https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*
+  *https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
+  *https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*  
 
 > Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities on the targets.
 
 > Last things eLearnSecurity also available on discord, install the application and have fun to chatting with all the hackers community students will be there (eLearnSecurity) 
-# https://discord.com/channels*
+  *https://discord.com/channels*
  ```
