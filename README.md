@@ -33,7 +33,7 @@ First never ever broke your head before the exam with many people write-up about
 > For the last target don’t think a lot for the escalation , the solution will show up in the first moment you got access to the machine (just think about it)
 
 > Reporting is very important  I based on my own report on these (prepare your report strategy before you take the exam)
-  *https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf* (<-- two spaces)
+  *https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf*<br />
   *https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf*
   *https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx*
 
