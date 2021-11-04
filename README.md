@@ -1,6 +1,6 @@
 ### 💯 eCPPTv2_Exam_Review 💯
 
-+ First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed). And these are my advices for you:
+First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed). And these are my advices for you:
 
 > If you’re a not a professionnel, take the course and the LABs with INE. and better to start from zero with the eJPT and get certified
 
