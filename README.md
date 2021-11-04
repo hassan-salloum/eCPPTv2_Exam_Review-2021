@@ -1,4 +1,4 @@
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) eCPPTv2_Exam_Review
+### eCPPTv2_Exam_Review
 
 First never ever broke your head before the exam with many people write-up about the exam (this can really be stressful because as a human every one love talking about himself and specially acting like superhero when he succeed)
 
