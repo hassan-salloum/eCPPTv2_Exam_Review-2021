@@ -5,7 +5,7 @@ First never ever broke your head before the exam with many people write-up about
 And these are my advices
 
 
-- If you’re a not a professionnel, take the course and the LABs with INE. and better to start from the zero with the eJPT and get certified
+  - If you’re a not a professionnel, take the course and the LABs with INE. and better to start from the zero with the eJPT and get certified
  
 - Also, if you are not in a hurry try to done all the “offensive learning path” with TryHackMe
 
