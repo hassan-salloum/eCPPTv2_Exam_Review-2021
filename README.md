@@ -24,8 +24,8 @@ First never ever broke your head before the exam with many people write-up about
 > Make your life easy in exploitation sometime it work for others
 
 > Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
-  *https://tryhackme.com/room/brainstorm<br />
-  *https://www.cybrary.it/course/offensive-penetration-testing/  « Module 6 »
+ [brainstorm](https://tryhackme.com/room/brainstorm)
+ [offensive-penetration-testing](https://www.cybrary.it/course/offensive-penetration-testing/) « Module 6 »
 
 > Reset is not the key for buffer over flow (be smart what can reset do if your target is already up?!), and just try different ports on your listener side and try to synthetize your exploit code
 
