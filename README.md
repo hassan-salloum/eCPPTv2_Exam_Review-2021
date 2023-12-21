@@ -15,8 +15,7 @@ First never ever broke your head before the exam with many people write-up about
 > Do not overthinking about exploit and if you didn’t get a meterpreter session so try to reset the LAB and initiate again your DB MSF or use MSF5 (From my side I used MSF5)
 
 > meterpreter is solution for pivoting in this exam (Other pivoting technique like chisel etc.. it will be a waste of time)
-
-  [explore-hidden-networks-with-double-pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
+[explore-hidden-networks-with-double-pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
 
 > Be careful MSF6 don’t support anymore socks4a its support “socks_proxy” as exploit
 
