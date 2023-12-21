@@ -8,7 +8,7 @@ First never ever broke your head before the exam with many people write-up about
 
 > Prepare for the battle with some chocolates and snacks, act like you are in a war for few days
 
-> Prepare your CheatSheet, and you can use mine [Pentest-CheatSheet.xlsx](https://github.com/VraiHack/Advanced-Pentesting-cheatsheet/raw/main/Pentest-CheatSheet.xlsx)
+> Prepare your CheatSheet, and you can use mine: [Pentest-CheatSheet.xlsx](https://github.com/VraiHack/Advanced-Pentesting-cheatsheet/raw/main/Pentest-CheatSheet.xlsx)
     
 > The first Target you should exploited will be mentioned in the engagement letter
 
