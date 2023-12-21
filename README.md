@@ -6,7 +6,7 @@ First never ever broke your head before the exam with many people write-up about
 
 > Also, if you are not in a hurry try to done all the “offensive learning path” with TryHackMe
 
-> Prepare to the battle with chocolates and snacks like a war for few days
+> Prepare for the battle with some chocolates and snacks, act like you are in a war for few days
 
 > Prepare your CheatSheet, and you can use mine
   *https://github.com/hassan-salloum/CheatSheet-Pentester
