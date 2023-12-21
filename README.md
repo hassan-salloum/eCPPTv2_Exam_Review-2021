@@ -32,8 +32,6 @@ First never ever broke your head before the exam with many people write-up about
 
 > Reporting is very important  I based on my own report on these: [reporting_guide](https://dsxte2q2nyjxs.cloudfront.net/reporting_guide.pdf), [randorisec](https://www.randorisec.fr/publications/randorisec-pentest-report-thehive-v1-0-tlp_white.pdf), [TCM-Security](https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report/blob/master/Demo%20Company%20-%20Security%20Assessment%20Findings%20Report.docx)
 
-> Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities on the targets.
+> Very important the exam not only to exploit/escalate Targets no (or catch the flag), take care to use Windows/Linux Enumeration technique or maybe some automated tools to gets all the possible vulnerabilities from the targets.
 
-> Last things eLearnSecurity also available on discord, install the application and have fun to chatting with all the hackers community students will be there (eLearnSecurity) 
-  *https://discord.com/channels*
- ```
+> Last things eLearnSecurity also available on discord, install the application and have fun to chatting with all the hackers community students will be there (eLearnSecurity)
