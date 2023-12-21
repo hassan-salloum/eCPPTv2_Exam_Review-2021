@@ -22,7 +22,7 @@ First never ever broke your head before the exam with many people write-up about
 
 > Make your life easy in exploitation sometime it work for others
 
-> Do not take the exam without  done some buffer over flow test and specially I have done this two lab (take care about them):
+> Do not take the exam without doing some buffer over flow test, take care about this two:
  [brainstorm](https://tryhackme.com/room/brainstorm)
  [offensive-penetration-testing](https://www.cybrary.it/course/offensive-penetration-testing/) « Module 6 »
 
