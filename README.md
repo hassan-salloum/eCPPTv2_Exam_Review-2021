@@ -18,7 +18,7 @@ Be careful MSF6 don’t support anymore socks4a its support “socks_proxy” as
 
 Good enumeration for every target because he will have the key  to others and proxychains is important
 
-Make your life easy in exploitation sometime it work for others
+Make your life easy in exploitation sometime similar technique can be used to exploit other elements.
 
 Do not take the exam without doing some buffer over flow test, take care about this two:
 [brainstorm](https://tryhackme.com/room/brainstorm)
