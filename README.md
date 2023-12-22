@@ -10,7 +10,7 @@ Prepare for the battle with some chocolates and snacks, act like you are in a wa
 
 Prepare your CheatSheet, and you can use mine: [Pentest-CheatSheet.xlsx](https://github.com/VraiHack/Advanced-Pentesting-cheatsheet/raw/main/Pentest-CheatSheet.xlsx)
     
-The first Target you should exploited will be mentioned in the engagement letter
+The first Target you should exploit will be mentioned in the engagement letter
 
 Do not overthinking about exploit and if you didn’t get a meterpreter session so try to reset the LAB and initiate again your DB MSF or use MSF5 (From my side I used MSF5)
 
